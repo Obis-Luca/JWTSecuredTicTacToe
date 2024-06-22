@@ -23,7 +23,7 @@ Real-time Gameplay: Two players can play against each other from separate browse
 Customized error handling using @RestControllerAdvice @ExceptionHandler. Also customized my own business error codes and a GlobalExceptionHandler that also contains custom exceptions.
 
 <h2>Testing</h2>
-**Postman**: Used for testing the endpoints during development.
+<b>Postman:</b> Used for testing the endpoints during development.
 
 <h3>Technologies Used</h3>
 
