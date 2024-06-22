@@ -24,6 +24,9 @@ Customized error handling using @RestControllerAdvice @ExceptionHandler. Also cu
 
 <h3>Technologies Used</h3>
 
+<h2>Testing</h2>
+**Postman**: Used for testing the endpoints during development.
+
 **Front-end:**
 
 <ul>
